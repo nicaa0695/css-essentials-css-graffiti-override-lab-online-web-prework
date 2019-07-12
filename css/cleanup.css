@@ -14,3 +14,9 @@ body #wall #tag-2 {
 #wall .parent #tag-5.slick {
   display: none;
 }
+body #wall .parent :last-child #tag-6 {
+  display: none;
+}
+body #wall .parent #tag-7.slick {
+  display: none;
+}
